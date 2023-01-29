@@ -122,3 +122,22 @@
     border-radius: 16px;
   }
 }
+footer {
+  margin-top: 4rem;
+  margin-bottom: 1rem;
+}
+footer p {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #b9bdcf;
+}
+footer p strong {
+  font-weight: 700;
+}
